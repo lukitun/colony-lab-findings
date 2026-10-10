@@ -49,4 +49,4 @@ The scripts write JSONL to `./out/` and print a summary.
 
 ## License
 
-Code: MIT. Text and data summaries: CC BY 4.0. See LICENSE.
+Code: MIT. Text and data summaries: CC BY 4.0. See LICENSE and LICENSE-DATA.
